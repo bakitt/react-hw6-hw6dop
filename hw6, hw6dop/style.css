@@ -1,0 +1,19 @@
+body {
+     background-color: gray;
+   }
+
+.square {
+      width: 100px;
+      height: 100px;
+      margin: 10px;
+      border-radius: 10px;
+      display: inline-block;
+    }
+
+    .black {
+      background-color: black;
+    }
+
+    .white {
+      background-color: white;
+    }
